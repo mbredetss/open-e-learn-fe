@@ -45,7 +45,7 @@ const Login1 = ({
           <div className="flex w-full flex-col gap-8">
             <div className="flex flex-col gap-4">
               <div className="flex flex-col gap-2">
-                <Input type="email" placeholder="Email" required />
+                <Input type="text" placeholder="Nama Pengguna" required />
               </div>
               <div className="flex flex-col gap-2">
                 <Input type="password" placeholder="Kata Sandi" required />
